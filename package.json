@@ -1,0 +1,32 @@
+{
+  "name": "learning-tensorflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunailgaz/learning-tensorflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunailgaz/learning-tensorflow/issues"
+  },
+  "homepage": "https://github.com/tunailgaz/learning-tensorflow#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "mocha": "^8.1.3"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.4.0",
+    "@tensorflow/tfjs-node": "^2.4.0",
+    "nsfwjs": "^2.2.0",
+    "sharp": "^0.26.1"
+  }
+}
